@@ -39,20 +39,20 @@ Spigot
 
 + 管理团队：
 
-  + 超级管理员：![](https://skin.akashic.cc/avatar/0?size=20)Akashica ![](https://skin.akashic.cc/avatar/1?size=20)Myth 
-  + 管理员：![](https://skin.akashic.cc/avatar/5?size=20)Willsols ![](https://skin.akashic.cc/avatar/0?size=20)abcde ![](https://skin.akashic.cc/avatar/0?size=20)Chandler_Bing ![](https://skin.akashic.cc/avatar/0?size=20)Wanver
+  + 超级管理员：![](https://skin.akashic.cc/avatar/player/Akashica?size=20)Akashica ![](https://skin.akashic.cc/avatar/player/Myth?size=20)Myth 
+  + 管理员：![](https://skin.akashic.cc/avatar/player/Willsols?size=20)Willsols ![](https://skin.akashic.cc/avatar/player/abcde?size=20)abcde ![](https://skin.akashic.cc/avatar/player/Chandler_Bing?size=20)Chandler_Bing ![](https://skin.akashic.cc/avatar/player/Wanver?size=20)Wanver
 
-+ 第一个进入服务器的玩家为 Myth。
++ 第一个进入服务器的玩家为 ![](https://skin.akashic.cc/avatar/player/Myth?size=20)Myth 。
 
 + 截止一周目结束，游完时间的前十名为：
 
-  + ![](https://skin.akashic.cc/avatar/5?size=20)Willsols 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)abcde 
-  + ![](https://skin.akashic.cc/avatar/1?size=20)Myth 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)Chandler_Bing 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)Wanver 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)Kevin_Spray 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)Akashica 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)Laurent 
-  + ![](https://skin.akashic.cc/avatar/0?size=20)Creeper9480 
+  + ![](https://skin.akashic.cc/avatar/player/Willsols?size=20)Willsols 
+  + ![](https://skin.akashic.cc/avatar/player/abcde?size=20)abcde 
+  + ![](https://skin.akashic.cc/avatar/player/Myth?size=20)Myth 
+  + ![](https://skin.akashic.cc/avatar/player/Chandler_Bing?size=20)Chandler_Bing 
+  + ![](https://skin.akashic.cc/avatar/player/Wanver?size=20)Wanver 
+  + ![](https://skin.akashic.cc/avatar/player/Kevin_Spray?size=20)Kevin_Spray 
+  + ![](https://skin.akashic.cc/avatar/player/Akashica?size=20)Akashica 
+  + ![](https://skin.akashic.cc/avatar/player/cerulean?size=20)Laurent 
+  + ![](https://skin.akashic.cc/avatar/player/Creeper9480?size=20)Creeper9480 
   + ![](https://skin.akashic.cc/avatar/0?size=20)Xiao_Cui
