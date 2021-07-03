@@ -12,12 +12,26 @@
 
 1.17
 
+## 当前状态
+
+主世界开放 4000\*4000，地狱开放 500\*500，末地未开放
+
 ## 服务端
 
-Spigot
+[Purpur](https://purpur.pl3x.net/)
 
 ## 插件
 
++ [Chunky](https://www.spigotmc.org/resources/chunky.81534/) 1.2.86
++ [ChunkyBorder](https://www.spigotmc.org/resources/chunkyborder.84278/) 1.0.38
++ [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/) 19.5
++ [Dynmap](https://github.com/Akashic-Server/dynmap) 3.2
++ [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/) 1.1.6
++ [LuckPerms-Bukkit](https://github.com/Akashic-Server/LuckPerms) 5.3.217
++ [Minecraft_QQ](https://github.com/HeartAge/Minecraft_QQ) 2.5.0.0
++ [PlayTimes](https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/) 1.4.3
++ [worldedit-bukkit](https://dev.bukkit.org/projects/worldedit) 7.2.5
++ [worldguard-bukkit](https://dev.bukkit.org/projects/worldguard) 7.0.5
 
 ## 历史
 
