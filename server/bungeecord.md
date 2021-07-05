@@ -8,7 +8,7 @@
 
 ## 服务端
 
-[BungeeCord](https://ci.md-5.net/job/BungeeCord/)
+[Waterfall](https://papermc.io/downloads#Waterfall)
 
 ## 插件
 

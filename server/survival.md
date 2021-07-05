@@ -28,7 +28,7 @@
 + [Dynmap](https://github.com/Akashic-Server/dynmap) 3.2
 + [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/) 1.1.6
 + [LuckPerms-Bukkit](https://github.com/Akashic-Server/LuckPerms) 5.3.217
-+ [Minecraft_QQ](https://github.com/HeartAge/Minecraft_QQ) 2.5.0.0
++ [Minecraft_QQ](https://github.com/HeartAge/Minecraft_QQ) 2.6.2
 + [PlayTimes](https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/) 1.4.3
 + [worldedit-bukkit](https://dev.bukkit.org/projects/worldedit) 7.2.5
 + [worldguard-bukkit](https://dev.bukkit.org/projects/worldguard) 7.0.5
