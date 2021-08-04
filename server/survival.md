@@ -24,13 +24,13 @@
 
 + [Chunky](https://www.spigotmc.org/resources/chunky.81534/) 1.2.86
 + [ChunkyBorder](https://www.spigotmc.org/resources/chunkyborder.84278/) 1.0.38
-+ [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/) 20.0
++ [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/) 20.1
 + [Dynmap](https://github.com/Akashic-Server/dynmap) 3.2
 + [FarmControl](https://www.spigotmc.org/resources/farmcontrol-1-15-1-17.86923/) 1.1.8
 + [LuckPerms-Bukkit](https://github.com/Akashic-Server/LuckPerms) 5.3.227
 + [Minecraft_QQ](https://github.com/HeartAge/Minecraft_QQ) 2.6.2
 + [PlayTimes](https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/) 1.4.4
-+ [worldedit-bukkit](https://dev.bukkit.org/projects/worldedit) 7.2.6 Beta 1
++ [worldedit-bukkit](https://dev.bukkit.org/projects/worldedit) 7.2.6 Beta 2
 + [worldguard-bukkit](https://dev.bukkit.org/projects/worldguard) 7.0.6 beta 1
 
 ## 历史
