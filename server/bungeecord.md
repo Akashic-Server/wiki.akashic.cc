@@ -12,7 +12,7 @@
 
 ## 插件
 
-+ [AllMusic](https://github.com/HeartAge/AllMusic_P) 2.12.5
++ [AllMusic](https://github.com/HeartAge/AllMusic_P) 2.12.6
 + [CleanMotD](https://www.spigotmc.org/resources/2ls-cleanmotd-the-ligthest-motd-plugin.58268/) 0.2.7
 + [Geyser-BungeeCord](https://ci.nukkitx.com/job/GeyserMC/job/Geyser/job/master/)
 
