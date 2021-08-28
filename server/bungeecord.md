@@ -1,6 +1,6 @@
 # 群组服
 
-群组服使用 BungeeCord，充当连接 Akashic Server 所有服务器的节点。
+群组服基于 BungeeCord，充当连接 Akashic Server 所有服务器的节点。
 
 ## 当前子服
 
@@ -25,3 +25,4 @@
 + 1.16 空岛生存服
 + 1.12.2 forge 暮色森林服
 + 1.12.2 forge 龙与魔法服
++ 1.17.1 冰船竞速服
