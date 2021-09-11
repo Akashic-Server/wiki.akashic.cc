@@ -32,7 +32,7 @@
 + [LuckPerms-Bukkit](https://github.com/Akashic-Server/LuckPerms) 5.3.235
 + [Minecraft_QQ](https://github.com/HeartAge/Minecraft_QQ) 2.6.2
 + [PlayTimes](https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/) 1.4.4
-+ [worldedit-bukkit](https://dev.bukkit.org/projects/worldedit) 7.2.6 Beta 2
++ [worldedit-bukkit](https://dev.bukkit.org/projects/worldedit) 7.2.6
 + [worldguard-bukkit](https://dev.bukkit.org/projects/worldguard) 7.0.6 beta 1
 
 ## 历史
